@@ -11,3 +11,6 @@ testujeme fetch
 feature branch  - github
 
 testujeme lokální změny a jejich propagaci online 
+
+
+testujeme konfliktni merge z vetve feature 
