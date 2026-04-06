@@ -11,3 +11,5 @@ testujeme fetch
 feature branch  - github
 
 testujeme lokální změny a jejich propagaci online 
+
+testuzjeme konfliuknti zmenu z featureB branche 
